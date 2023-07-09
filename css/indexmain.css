@@ -1,5 +1,4 @@
 hed{
-    text-align: center;
     position: fixed;
     top: 0;
     width: 100%; /* fixedを指定すると、「内容物＝幅」となるため */
@@ -8,4 +7,5 @@ hed{
 h1{
    background-color: yellow;
    color: black;
+   text-align: center;
 }
