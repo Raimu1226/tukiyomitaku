@@ -10,4 +10,10 @@ h1{
    background-color: yellow;
    color: black;
    text-align: center;
+   position:fixed;
+   left:0px;
+   light:0px;
+   width:100%;
+   z-index:100;
+   margin:0px;
 }
