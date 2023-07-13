@@ -3,6 +3,7 @@ p {
     text-align: center;
     size: 18px;
   }
+  
 /*まずはお決まりのボックスサイズ算出をborer-boxに */
 *, 
 *:before,
