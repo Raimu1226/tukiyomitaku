@@ -1,3 +1,8 @@
+p {
+    /* 水平方向の中央揃え */
+    text-align: center;
+    size: 18px;
+  }
 /*まずはお決まりのボックスサイズ算出をborer-boxに */
 *, 
 *:before,
