@@ -11,3 +11,8 @@ h1{
    z-index:100;
    margin:0px;
 }
+  
+  p {
+    /* 水平方向の中央揃え */
+    text-align: center;
+  }
