@@ -16,3 +16,6 @@ h1{
     /* 水平方向の中央揃え */
     text-align: center;
   }
+  subtitle{
+    size: 150%;
+  }
